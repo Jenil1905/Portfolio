@@ -10,14 +10,14 @@ import nexusai from "../assets/nexusai.png";
 const projects = [
     {
         name: "Nexus AI",
-        roles: ["Frontend", "AI Integration"],
+        roles: ["AI Integration"],
         year: "2026",
         image: nexusai,
         link: "https://nexus-ai-eight-lyart.vercel.app/",
     },
     {
         name: "Intervue",
-        roles: ["Full Stack", "WebRTC"],
+        roles: ["Full Stack"],
         year: "2025",
         image: intervue,
         link: "https://intervue-frontend-ten.vercel.app/",
